@@ -1,0 +1,587 @@
+date,season,team,opponent,runs_for,runs_against,wickets_lost,result,won
+2022-03-26,2022,Chennai Super Kings,Kolkata Knight Riders,131.0,133.0,5.0,loss,0.0
+2022-03-26,2022,Kolkata Knight Riders,Chennai Super Kings,133.0,131.0,4.0,win,1.0
+2022-03-27,2022,Mumbai Indians,Delhi Capitals,177.0,179.0,5.0,loss,0.0
+2022-03-27,2022,Delhi Capitals,Mumbai Indians,179.0,177.0,6.0,win,1.0
+2022-03-27,2022,Royal Challengers Bengaluru,Punjab Kings,205.0,208.0,2.0,loss,0.0
+2022-03-27,2022,Punjab Kings,Royal Challengers Bengaluru,208.0,205.0,5.0,win,1.0
+2022-03-28,2022,Lucknow Super Giants,Gujarat Titans,158.0,161.0,6.0,loss,0.0
+2022-03-28,2022,Gujarat Titans,Lucknow Super Giants,161.0,158.0,5.0,win,1.0
+2022-03-29,2022,Rajasthan Royals,Sunrisers Hyderabad,210.0,149.0,6.0,win,1.0
+2022-03-29,2022,Sunrisers Hyderabad,Rajasthan Royals,149.0,210.0,7.0,loss,0.0
+2022-03-30,2022,Kolkata Knight Riders,Royal Challengers Bengaluru,128.0,132.0,10.0,loss,0.0
+2022-03-30,2022,Royal Challengers Bengaluru,Kolkata Knight Riders,132.0,128.0,7.0,win,1.0
+2022-03-31,2022,Chennai Super Kings,Lucknow Super Giants,210.0,211.0,7.0,loss,0.0
+2022-03-31,2022,Lucknow Super Giants,Chennai Super Kings,211.0,210.0,4.0,win,1.0
+2022-04-01,2022,Punjab Kings,Kolkata Knight Riders,137.0,141.0,10.0,loss,0.0
+2022-04-01,2022,Kolkata Knight Riders,Punjab Kings,141.0,137.0,4.0,win,1.0
+2022-04-02,2022,Rajasthan Royals,Mumbai Indians,193.0,170.0,8.0,win,1.0
+2022-04-02,2022,Mumbai Indians,Rajasthan Royals,170.0,193.0,8.0,loss,0.0
+2022-04-02,2022,Gujarat Titans,Delhi Capitals,171.0,157.0,6.0,win,1.0
+2022-04-02,2022,Delhi Capitals,Gujarat Titans,157.0,171.0,9.0,loss,0.0
+2022-04-03,2022,Punjab Kings,Chennai Super Kings,180.0,126.0,8.0,win,1.0
+2022-04-03,2022,Chennai Super Kings,Punjab Kings,126.0,180.0,10.0,loss,0.0
+2022-04-04,2022,Lucknow Super Giants,Sunrisers Hyderabad,169.0,157.0,7.0,win,1.0
+2022-04-04,2022,Sunrisers Hyderabad,Lucknow Super Giants,157.0,169.0,9.0,loss,0.0
+2022-04-05,2022,Rajasthan Royals,Royal Challengers Bengaluru,169.0,173.0,3.0,loss,0.0
+2022-04-05,2022,Royal Challengers Bengaluru,Rajasthan Royals,173.0,169.0,6.0,win,1.0
+2022-04-06,2022,Mumbai Indians,Kolkata Knight Riders,161.0,162.0,4.0,loss,0.0
+2022-04-06,2022,Kolkata Knight Riders,Mumbai Indians,162.0,161.0,5.0,win,1.0
+2022-04-07,2022,Delhi Capitals,Lucknow Super Giants,149.0,155.0,3.0,loss,0.0
+2022-04-07,2022,Lucknow Super Giants,Delhi Capitals,155.0,149.0,4.0,win,1.0
+2022-04-08,2022,Punjab Kings,Gujarat Titans,189.0,190.0,9.0,loss,0.0
+2022-04-08,2022,Gujarat Titans,Punjab Kings,190.0,189.0,4.0,win,1.0
+2022-04-09,2022,Chennai Super Kings,Sunrisers Hyderabad,154.0,155.0,7.0,loss,0.0
+2022-04-09,2022,Sunrisers Hyderabad,Chennai Super Kings,155.0,154.0,2.0,win,1.0
+2022-04-09,2022,Mumbai Indians,Royal Challengers Bengaluru,151.0,152.0,6.0,loss,0.0
+2022-04-09,2022,Royal Challengers Bengaluru,Mumbai Indians,152.0,151.0,3.0,win,1.0
+2022-04-10,2022,Delhi Capitals,Kolkata Knight Riders,215.0,171.0,5.0,win,1.0
+2022-04-10,2022,Kolkata Knight Riders,Delhi Capitals,171.0,215.0,10.0,loss,0.0
+2022-04-10,2022,Rajasthan Royals,Lucknow Super Giants,165.0,162.0,6.0,win,1.0
+2022-04-10,2022,Lucknow Super Giants,Rajasthan Royals,162.0,165.0,8.0,loss,0.0
+2022-04-11,2022,Gujarat Titans,Sunrisers Hyderabad,162.0,168.0,7.0,loss,0.0
+2022-04-11,2022,Sunrisers Hyderabad,Gujarat Titans,168.0,162.0,3.0,win,1.0
+2022-04-12,2022,Chennai Super Kings,Royal Challengers Bengaluru,216.0,193.0,4.0,win,1.0
+2022-04-12,2022,Royal Challengers Bengaluru,Chennai Super Kings,193.0,216.0,9.0,loss,0.0
+2022-04-13,2022,Punjab Kings,Mumbai Indians,198.0,186.0,5.0,win,1.0
+2022-04-13,2022,Mumbai Indians,Punjab Kings,186.0,198.0,9.0,loss,0.0
+2022-04-14,2022,Gujarat Titans,Rajasthan Royals,192.0,155.0,4.0,win,1.0
+2022-04-14,2022,Rajasthan Royals,Gujarat Titans,155.0,192.0,9.0,loss,0.0
+2022-04-15,2022,Kolkata Knight Riders,Sunrisers Hyderabad,175.0,176.0,8.0,loss,0.0
+2022-04-15,2022,Sunrisers Hyderabad,Kolkata Knight Riders,176.0,175.0,3.0,win,1.0
+2022-04-16,2022,Lucknow Super Giants,Mumbai Indians,199.0,181.0,4.0,win,1.0
+2022-04-16,2022,Mumbai Indians,Lucknow Super Giants,181.0,199.0,9.0,loss,0.0
+2022-04-16,2022,Royal Challengers Bengaluru,Delhi Capitals,189.0,173.0,5.0,win,1.0
+2022-04-16,2022,Delhi Capitals,Royal Challengers Bengaluru,173.0,189.0,7.0,loss,0.0
+2022-04-17,2022,Punjab Kings,Sunrisers Hyderabad,151.0,152.0,10.0,loss,0.0
+2022-04-17,2022,Sunrisers Hyderabad,Punjab Kings,152.0,151.0,3.0,win,1.0
+2022-04-17,2022,Chennai Super Kings,Gujarat Titans,169.0,170.0,5.0,loss,0.0
+2022-04-17,2022,Gujarat Titans,Chennai Super Kings,170.0,169.0,7.0,win,1.0
+2022-04-18,2022,Rajasthan Royals,Kolkata Knight Riders,217.0,210.0,5.0,win,1.0
+2022-04-18,2022,Kolkata Knight Riders,Rajasthan Royals,210.0,217.0,10.0,loss,0.0
+2022-04-19,2022,Royal Challengers Bengaluru,Lucknow Super Giants,181.0,163.0,6.0,win,1.0
+2022-04-19,2022,Lucknow Super Giants,Royal Challengers Bengaluru,163.0,181.0,8.0,loss,0.0
+2022-04-20,2022,Punjab Kings,Delhi Capitals,115.0,119.0,10.0,loss,0.0
+2022-04-20,2022,Delhi Capitals,Punjab Kings,119.0,115.0,1.0,win,1.0
+2022-04-21,2022,Mumbai Indians,Chennai Super Kings,155.0,156.0,7.0,loss,0.0
+2022-04-21,2022,Chennai Super Kings,Mumbai Indians,156.0,155.0,7.0,win,1.0
+2022-04-22,2022,Rajasthan Royals,Delhi Capitals,222.0,207.0,2.0,win,1.0
+2022-04-22,2022,Delhi Capitals,Rajasthan Royals,207.0,222.0,8.0,loss,0.0
+2022-04-23,2022,Gujarat Titans,Kolkata Knight Riders,156.0,148.0,9.0,win,1.0
+2022-04-23,2022,Kolkata Knight Riders,Gujarat Titans,148.0,156.0,8.0,loss,0.0
+2022-04-23,2022,Royal Challengers Bengaluru,Sunrisers Hyderabad,68.0,72.0,10.0,loss,0.0
+2022-04-23,2022,Sunrisers Hyderabad,Royal Challengers Bengaluru,72.0,68.0,1.0,win,1.0
+2022-04-24,2022,Lucknow Super Giants,Mumbai Indians,168.0,132.0,6.0,win,1.0
+2022-04-24,2022,Mumbai Indians,Lucknow Super Giants,132.0,168.0,8.0,loss,0.0
+2022-04-25,2022,Punjab Kings,Chennai Super Kings,187.0,176.0,4.0,win,1.0
+2022-04-25,2022,Chennai Super Kings,Punjab Kings,176.0,187.0,6.0,loss,0.0
+2022-04-26,2022,Rajasthan Royals,Royal Challengers Bengaluru,144.0,115.0,8.0,win,1.0
+2022-04-26,2022,Royal Challengers Bengaluru,Rajasthan Royals,115.0,144.0,10.0,loss,0.0
+2022-04-27,2022,Sunrisers Hyderabad,Gujarat Titans,195.0,199.0,6.0,loss,0.0
+2022-04-27,2022,Gujarat Titans,Sunrisers Hyderabad,199.0,195.0,5.0,win,1.0
+2022-04-28,2022,Kolkata Knight Riders,Delhi Capitals,146.0,150.0,9.0,loss,0.0
+2022-04-28,2022,Delhi Capitals,Kolkata Knight Riders,150.0,146.0,6.0,win,1.0
+2022-04-29,2022,Lucknow Super Giants,Punjab Kings,153.0,133.0,8.0,win,1.0
+2022-04-29,2022,Punjab Kings,Lucknow Super Giants,133.0,153.0,8.0,loss,0.0
+2022-04-30,2022,Royal Challengers Bengaluru,Gujarat Titans,170.0,174.0,6.0,loss,0.0
+2022-04-30,2022,Gujarat Titans,Royal Challengers Bengaluru,174.0,170.0,4.0,win,1.0
+2022-04-30,2022,Rajasthan Royals,Mumbai Indians,158.0,161.0,6.0,loss,0.0
+2022-04-30,2022,Mumbai Indians,Rajasthan Royals,161.0,158.0,5.0,win,1.0
+2022-05-01,2022,Lucknow Super Giants,Delhi Capitals,195.0,189.0,3.0,win,1.0
+2022-05-01,2022,Delhi Capitals,Lucknow Super Giants,189.0,195.0,7.0,loss,0.0
+2022-05-01,2022,Chennai Super Kings,Sunrisers Hyderabad,202.0,189.0,2.0,win,1.0
+2022-05-01,2022,Sunrisers Hyderabad,Chennai Super Kings,189.0,202.0,6.0,loss,0.0
+2022-05-02,2022,Rajasthan Royals,Kolkata Knight Riders,152.0,158.0,5.0,loss,0.0
+2022-05-02,2022,Kolkata Knight Riders,Rajasthan Royals,158.0,152.0,3.0,win,1.0
+2022-05-03,2022,Gujarat Titans,Punjab Kings,143.0,145.0,8.0,loss,0.0
+2022-05-03,2022,Punjab Kings,Gujarat Titans,145.0,143.0,2.0,win,1.0
+2022-05-04,2022,Royal Challengers Bengaluru,Chennai Super Kings,173.0,160.0,8.0,win,1.0
+2022-05-04,2022,Chennai Super Kings,Royal Challengers Bengaluru,160.0,173.0,8.0,loss,0.0
+2022-05-05,2022,Delhi Capitals,Sunrisers Hyderabad,207.0,186.0,3.0,win,1.0
+2022-05-05,2022,Sunrisers Hyderabad,Delhi Capitals,186.0,207.0,8.0,loss,0.0
+2022-05-06,2022,Mumbai Indians,Gujarat Titans,177.0,172.0,6.0,win,1.0
+2022-05-06,2022,Gujarat Titans,Mumbai Indians,172.0,177.0,5.0,loss,0.0
+2022-05-07,2022,Punjab Kings,Rajasthan Royals,189.0,190.0,5.0,loss,0.0
+2022-05-07,2022,Rajasthan Royals,Punjab Kings,190.0,189.0,4.0,win,1.0
+2022-05-07,2022,Lucknow Super Giants,Kolkata Knight Riders,176.0,101.0,7.0,win,1.0
+2022-05-07,2022,Kolkata Knight Riders,Lucknow Super Giants,101.0,176.0,10.0,loss,0.0
+2022-05-08,2022,Royal Challengers Bengaluru,Sunrisers Hyderabad,192.0,125.0,3.0,win,1.0
+2022-05-08,2022,Sunrisers Hyderabad,Royal Challengers Bengaluru,125.0,192.0,10.0,loss,0.0
+2022-05-08,2022,Chennai Super Kings,Delhi Capitals,208.0,117.0,6.0,win,1.0
+2022-05-08,2022,Delhi Capitals,Chennai Super Kings,117.0,208.0,10.0,loss,0.0
+2022-05-09,2022,Kolkata Knight Riders,Mumbai Indians,165.0,113.0,9.0,win,1.0
+2022-05-09,2022,Mumbai Indians,Kolkata Knight Riders,113.0,165.0,10.0,loss,0.0
+2022-05-10,2022,Gujarat Titans,Lucknow Super Giants,144.0,82.0,4.0,win,1.0
+2022-05-10,2022,Lucknow Super Giants,Gujarat Titans,82.0,144.0,10.0,loss,0.0
+2022-05-11,2022,Rajasthan Royals,Delhi Capitals,160.0,161.0,6.0,loss,0.0
+2022-05-11,2022,Delhi Capitals,Rajasthan Royals,161.0,160.0,2.0,win,1.0
+2022-05-12,2022,Chennai Super Kings,Mumbai Indians,97.0,103.0,10.0,loss,0.0
+2022-05-12,2022,Mumbai Indians,Chennai Super Kings,103.0,97.0,5.0,win,1.0
+2022-05-13,2022,Punjab Kings,Royal Challengers Bengaluru,209.0,155.0,9.0,win,1.0
+2022-05-13,2022,Royal Challengers Bengaluru,Punjab Kings,155.0,209.0,9.0,loss,0.0
+2022-05-14,2022,Kolkata Knight Riders,Sunrisers Hyderabad,177.0,123.0,6.0,win,1.0
+2022-05-14,2022,Sunrisers Hyderabad,Kolkata Knight Riders,123.0,177.0,8.0,loss,0.0
+2022-05-15,2022,Chennai Super Kings,Gujarat Titans,133.0,137.0,5.0,loss,0.0
+2022-05-15,2022,Gujarat Titans,Chennai Super Kings,137.0,133.0,3.0,win,1.0
+2022-05-15,2022,Rajasthan Royals,Lucknow Super Giants,178.0,154.0,6.0,win,1.0
+2022-05-15,2022,Lucknow Super Giants,Rajasthan Royals,154.0,178.0,8.0,loss,0.0
+2022-05-16,2022,Delhi Capitals,Punjab Kings,159.0,142.0,7.0,win,1.0
+2022-05-16,2022,Punjab Kings,Delhi Capitals,142.0,159.0,9.0,loss,0.0
+2022-05-17,2022,Sunrisers Hyderabad,Mumbai Indians,193.0,190.0,6.0,win,1.0
+2022-05-17,2022,Mumbai Indians,Sunrisers Hyderabad,190.0,193.0,7.0,loss,0.0
+2022-05-18,2022,Lucknow Super Giants,Kolkata Knight Riders,210.0,208.0,0.0,win,1.0
+2022-05-18,2022,Kolkata Knight Riders,Lucknow Super Giants,208.0,210.0,8.0,loss,0.0
+2022-05-19,2022,Gujarat Titans,Royal Challengers Bengaluru,168.0,170.0,5.0,loss,0.0
+2022-05-19,2022,Royal Challengers Bengaluru,Gujarat Titans,170.0,168.0,2.0,win,1.0
+2022-05-20,2022,Chennai Super Kings,Rajasthan Royals,150.0,151.0,6.0,loss,0.0
+2022-05-20,2022,Rajasthan Royals,Chennai Super Kings,151.0,150.0,5.0,win,1.0
+2022-05-21,2022,Delhi Capitals,Mumbai Indians,159.0,160.0,7.0,loss,0.0
+2022-05-21,2022,Mumbai Indians,Delhi Capitals,160.0,159.0,5.0,win,1.0
+2022-05-22,2022,Sunrisers Hyderabad,Punjab Kings,157.0,160.0,8.0,loss,0.0
+2022-05-22,2022,Punjab Kings,Sunrisers Hyderabad,160.0,157.0,5.0,win,1.0
+2022-05-24,2022,Rajasthan Royals,Gujarat Titans,188.0,191.0,6.0,loss,0.0
+2022-05-24,2022,Gujarat Titans,Rajasthan Royals,191.0,188.0,3.0,win,1.0
+2022-05-25,2022,Royal Challengers Bengaluru,Lucknow Super Giants,207.0,193.0,4.0,win,1.0
+2022-05-25,2022,Lucknow Super Giants,Royal Challengers Bengaluru,193.0,207.0,6.0,loss,0.0
+2022-05-27,2022,Royal Challengers Bengaluru,Rajasthan Royals,157.0,161.0,8.0,loss,0.0
+2022-05-27,2022,Rajasthan Royals,Royal Challengers Bengaluru,161.0,157.0,3.0,win,1.0
+2022-05-29,2022,Rajasthan Royals,Gujarat Titans,130.0,133.0,9.0,loss,0.0
+2022-05-29,2022,Gujarat Titans,Rajasthan Royals,133.0,130.0,3.0,win,1.0
+2023-03-31,2023,Chennai Super Kings,Gujarat Titans,178.0,182.0,7.0,loss,0.0
+2023-03-31,2023,Gujarat Titans,Chennai Super Kings,182.0,178.0,5.0,win,1.0
+2023-04-01,2023,Punjab Kings,Kolkata Knight Riders,191.0,146.0,5.0,win,1.0
+2023-04-01,2023,Kolkata Knight Riders,Punjab Kings,146.0,191.0,7.0,loss,0.0
+2023-04-01,2023,Lucknow Super Giants,Delhi Capitals,193.0,143.0,6.0,win,1.0
+2023-04-01,2023,Delhi Capitals,Lucknow Super Giants,143.0,193.0,9.0,loss,0.0
+2023-04-02,2023,Rajasthan Royals,Sunrisers Hyderabad,203.0,131.0,5.0,win,1.0
+2023-04-02,2023,Sunrisers Hyderabad,Rajasthan Royals,131.0,203.0,8.0,loss,0.0
+2023-04-02,2023,Mumbai Indians,Royal Challengers Bengaluru,171.0,172.0,7.0,loss,0.0
+2023-04-02,2023,Royal Challengers Bengaluru,Mumbai Indians,172.0,171.0,2.0,win,1.0
+2023-04-03,2023,Chennai Super Kings,Lucknow Super Giants,217.0,205.0,7.0,win,1.0
+2023-04-03,2023,Lucknow Super Giants,Chennai Super Kings,205.0,217.0,7.0,loss,0.0
+2023-04-04,2023,Delhi Capitals,Gujarat Titans,162.0,163.0,8.0,loss,0.0
+2023-04-04,2023,Gujarat Titans,Delhi Capitals,163.0,162.0,4.0,win,1.0
+2023-04-05,2023,Punjab Kings,Rajasthan Royals,197.0,192.0,5.0,win,1.0
+2023-04-05,2023,Rajasthan Royals,Punjab Kings,192.0,197.0,7.0,loss,0.0
+2023-04-06,2023,Kolkata Knight Riders,Royal Challengers Bengaluru,204.0,123.0,7.0,win,1.0
+2023-04-06,2023,Royal Challengers Bengaluru,Kolkata Knight Riders,123.0,204.0,10.0,loss,0.0
+2023-04-07,2023,Sunrisers Hyderabad,Lucknow Super Giants,121.0,127.0,8.0,loss,0.0
+2023-04-07,2023,Lucknow Super Giants,Sunrisers Hyderabad,127.0,121.0,5.0,win,1.0
+2023-04-08,2023,Rajasthan Royals,Delhi Capitals,199.0,142.0,4.0,win,1.0
+2023-04-08,2023,Delhi Capitals,Rajasthan Royals,142.0,199.0,9.0,loss,0.0
+2023-04-08,2023,Mumbai Indians,Chennai Super Kings,157.0,159.0,8.0,loss,0.0
+2023-04-08,2023,Chennai Super Kings,Mumbai Indians,159.0,157.0,3.0,win,1.0
+2023-04-09,2023,Gujarat Titans,Kolkata Knight Riders,204.0,207.0,4.0,loss,0.0
+2023-04-09,2023,Kolkata Knight Riders,Gujarat Titans,207.0,204.0,7.0,win,1.0
+2023-04-09,2023,Punjab Kings,Sunrisers Hyderabad,143.0,145.0,9.0,loss,0.0
+2023-04-09,2023,Sunrisers Hyderabad,Punjab Kings,145.0,143.0,2.0,win,1.0
+2023-04-10,2023,Royal Challengers Bengaluru,Lucknow Super Giants,212.0,213.0,2.0,loss,0.0
+2023-04-10,2023,Lucknow Super Giants,Royal Challengers Bengaluru,213.0,212.0,9.0,win,1.0
+2023-04-11,2023,Delhi Capitals,Mumbai Indians,172.0,173.0,10.0,loss,0.0
+2023-04-11,2023,Mumbai Indians,Delhi Capitals,173.0,172.0,4.0,win,1.0
+2023-04-12,2023,Rajasthan Royals,Chennai Super Kings,175.0,172.0,8.0,win,1.0
+2023-04-12,2023,Chennai Super Kings,Rajasthan Royals,172.0,175.0,6.0,loss,0.0
+2023-04-13,2023,Punjab Kings,Gujarat Titans,153.0,154.0,8.0,loss,0.0
+2023-04-13,2023,Gujarat Titans,Punjab Kings,154.0,153.0,4.0,win,1.0
+2023-04-14,2023,Sunrisers Hyderabad,Kolkata Knight Riders,228.0,205.0,4.0,win,1.0
+2023-04-14,2023,Kolkata Knight Riders,Sunrisers Hyderabad,205.0,228.0,7.0,loss,0.0
+2023-04-15,2023,Royal Challengers Bengaluru,Delhi Capitals,174.0,151.0,6.0,win,1.0
+2023-04-15,2023,Delhi Capitals,Royal Challengers Bengaluru,151.0,174.0,9.0,loss,0.0
+2023-04-15,2023,Lucknow Super Giants,Punjab Kings,159.0,161.0,8.0,loss,0.0
+2023-04-15,2023,Punjab Kings,Lucknow Super Giants,161.0,159.0,8.0,win,1.0
+2023-04-16,2023,Kolkata Knight Riders,Mumbai Indians,185.0,186.0,6.0,loss,0.0
+2023-04-16,2023,Mumbai Indians,Kolkata Knight Riders,186.0,185.0,5.0,win,1.0
+2023-04-16,2023,Gujarat Titans,Rajasthan Royals,177.0,179.0,7.0,loss,0.0
+2023-04-16,2023,Rajasthan Royals,Gujarat Titans,179.0,177.0,7.0,win,1.0
+2023-04-17,2023,Chennai Super Kings,Royal Challengers Bengaluru,226.0,218.0,6.0,win,1.0
+2023-04-17,2023,Royal Challengers Bengaluru,Chennai Super Kings,218.0,226.0,8.0,loss,0.0
+2023-04-18,2023,Mumbai Indians,Sunrisers Hyderabad,192.0,178.0,5.0,win,1.0
+2023-04-18,2023,Sunrisers Hyderabad,Mumbai Indians,178.0,192.0,10.0,loss,0.0
+2023-04-19,2023,Lucknow Super Giants,Rajasthan Royals,154.0,144.0,7.0,win,1.0
+2023-04-19,2023,Rajasthan Royals,Lucknow Super Giants,144.0,154.0,6.0,loss,0.0
+2023-04-20,2023,Royal Challengers Bengaluru,Punjab Kings,174.0,150.0,4.0,win,1.0
+2023-04-20,2023,Punjab Kings,Royal Challengers Bengaluru,150.0,174.0,10.0,loss,0.0
+2023-04-20,2023,Kolkata Knight Riders,Delhi Capitals,127.0,128.0,10.0,loss,0.0
+2023-04-20,2023,Delhi Capitals,Kolkata Knight Riders,128.0,127.0,6.0,win,1.0
+2023-04-21,2023,Sunrisers Hyderabad,Chennai Super Kings,134.0,138.0,7.0,loss,0.0
+2023-04-21,2023,Chennai Super Kings,Sunrisers Hyderabad,138.0,134.0,3.0,win,1.0
+2023-04-22,2023,Gujarat Titans,Lucknow Super Giants,135.0,128.0,6.0,win,1.0
+2023-04-22,2023,Lucknow Super Giants,Gujarat Titans,128.0,135.0,7.0,loss,0.0
+2023-04-22,2023,Punjab Kings,Mumbai Indians,214.0,201.0,8.0,win,1.0
+2023-04-22,2023,Mumbai Indians,Punjab Kings,201.0,214.0,6.0,loss,0.0
+2023-04-23,2023,Royal Challengers Bengaluru,Rajasthan Royals,189.0,182.0,9.0,win,1.0
+2023-04-23,2023,Rajasthan Royals,Royal Challengers Bengaluru,182.0,189.0,6.0,loss,0.0
+2023-04-23,2023,Chennai Super Kings,Kolkata Knight Riders,235.0,186.0,4.0,win,1.0
+2023-04-23,2023,Kolkata Knight Riders,Chennai Super Kings,186.0,235.0,8.0,loss,0.0
+2023-04-24,2023,Delhi Capitals,Sunrisers Hyderabad,144.0,137.0,9.0,win,1.0
+2023-04-24,2023,Sunrisers Hyderabad,Delhi Capitals,137.0,144.0,6.0,loss,0.0
+2023-04-25,2023,Gujarat Titans,Mumbai Indians,207.0,152.0,6.0,win,1.0
+2023-04-25,2023,Mumbai Indians,Gujarat Titans,152.0,207.0,9.0,loss,0.0
+2023-04-26,2023,Kolkata Knight Riders,Royal Challengers Bengaluru,200.0,179.0,5.0,win,1.0
+2023-04-26,2023,Royal Challengers Bengaluru,Kolkata Knight Riders,179.0,200.0,8.0,loss,0.0
+2023-04-27,2023,Rajasthan Royals,Chennai Super Kings,202.0,170.0,5.0,win,1.0
+2023-04-27,2023,Chennai Super Kings,Rajasthan Royals,170.0,202.0,6.0,loss,0.0
+2023-04-28,2023,Lucknow Super Giants,Punjab Kings,257.0,201.0,5.0,win,1.0
+2023-04-28,2023,Punjab Kings,Lucknow Super Giants,201.0,257.0,10.0,loss,0.0
+2023-04-29,2023,Kolkata Knight Riders,Gujarat Titans,179.0,180.0,7.0,loss,0.0
+2023-04-29,2023,Gujarat Titans,Kolkata Knight Riders,180.0,179.0,3.0,win,1.0
+2023-04-29,2023,Sunrisers Hyderabad,Delhi Capitals,197.0,188.0,6.0,win,1.0
+2023-04-29,2023,Delhi Capitals,Sunrisers Hyderabad,188.0,197.0,6.0,loss,0.0
+2023-04-30,2023,Chennai Super Kings,Punjab Kings,200.0,201.0,4.0,loss,0.0
+2023-04-30,2023,Punjab Kings,Chennai Super Kings,201.0,200.0,6.0,win,1.0
+2023-04-30,2023,Rajasthan Royals,Mumbai Indians,212.0,214.0,7.0,loss,0.0
+2023-04-30,2023,Mumbai Indians,Rajasthan Royals,214.0,212.0,4.0,win,1.0
+2023-05-01,2023,Royal Challengers Bengaluru,Lucknow Super Giants,126.0,108.0,9.0,win,1.0
+2023-05-01,2023,Lucknow Super Giants,Royal Challengers Bengaluru,108.0,126.0,10.0,loss,0.0
+2023-05-02,2023,Delhi Capitals,Gujarat Titans,130.0,125.0,8.0,win,1.0
+2023-05-02,2023,Gujarat Titans,Delhi Capitals,125.0,130.0,6.0,loss,0.0
+2023-05-03,2023,Lucknow Super Giants,Chennai Super Kings,125.0,,7.0,no result,
+2023-05-03,2023,Chennai Super Kings,Lucknow Super Giants,,125.0,,no result,
+2023-05-03,2023,Punjab Kings,Mumbai Indians,214.0,216.0,3.0,loss,0.0
+2023-05-03,2023,Mumbai Indians,Punjab Kings,216.0,214.0,4.0,win,1.0
+2023-05-04,2023,Kolkata Knight Riders,Sunrisers Hyderabad,171.0,166.0,9.0,win,1.0
+2023-05-04,2023,Sunrisers Hyderabad,Kolkata Knight Riders,166.0,171.0,8.0,loss,0.0
+2023-05-05,2023,Rajasthan Royals,Gujarat Titans,118.0,119.0,10.0,loss,0.0
+2023-05-05,2023,Gujarat Titans,Rajasthan Royals,119.0,118.0,1.0,win,1.0
+2023-05-06,2023,Mumbai Indians,Chennai Super Kings,139.0,140.0,8.0,loss,0.0
+2023-05-06,2023,Chennai Super Kings,Mumbai Indians,140.0,139.0,4.0,win,1.0
+2023-05-06,2023,Royal Challengers Bengaluru,Delhi Capitals,181.0,187.0,4.0,loss,0.0
+2023-05-06,2023,Delhi Capitals,Royal Challengers Bengaluru,187.0,181.0,3.0,win,1.0
+2023-05-07,2023,Gujarat Titans,Lucknow Super Giants,227.0,171.0,2.0,win,1.0
+2023-05-07,2023,Lucknow Super Giants,Gujarat Titans,171.0,227.0,7.0,loss,0.0
+2023-05-07,2023,Rajasthan Royals,Sunrisers Hyderabad,214.0,217.0,2.0,loss,0.0
+2023-05-07,2023,Sunrisers Hyderabad,Rajasthan Royals,217.0,214.0,6.0,win,1.0
+2023-05-08,2023,Punjab Kings,Kolkata Knight Riders,179.0,182.0,7.0,loss,0.0
+2023-05-08,2023,Kolkata Knight Riders,Punjab Kings,182.0,179.0,5.0,win,1.0
+2023-05-09,2023,Royal Challengers Bengaluru,Mumbai Indians,199.0,200.0,6.0,loss,0.0
+2023-05-09,2023,Mumbai Indians,Royal Challengers Bengaluru,200.0,199.0,4.0,win,1.0
+2023-05-10,2023,Chennai Super Kings,Delhi Capitals,167.0,140.0,8.0,win,1.0
+2023-05-10,2023,Delhi Capitals,Chennai Super Kings,140.0,167.0,8.0,loss,0.0
+2023-05-11,2023,Kolkata Knight Riders,Rajasthan Royals,149.0,151.0,8.0,loss,0.0
+2023-05-11,2023,Rajasthan Royals,Kolkata Knight Riders,151.0,149.0,1.0,win,1.0
+2023-05-12,2023,Mumbai Indians,Gujarat Titans,218.0,191.0,5.0,win,1.0
+2023-05-12,2023,Gujarat Titans,Mumbai Indians,191.0,218.0,8.0,loss,0.0
+2023-05-13,2023,Sunrisers Hyderabad,Lucknow Super Giants,182.0,185.0,6.0,loss,0.0
+2023-05-13,2023,Lucknow Super Giants,Sunrisers Hyderabad,185.0,182.0,3.0,win,1.0
+2023-05-13,2023,Punjab Kings,Delhi Capitals,167.0,136.0,7.0,win,1.0
+2023-05-13,2023,Delhi Capitals,Punjab Kings,136.0,167.0,8.0,loss,0.0
+2023-05-14,2023,Royal Challengers Bengaluru,Rajasthan Royals,171.0,59.0,5.0,win,1.0
+2023-05-14,2023,Rajasthan Royals,Royal Challengers Bengaluru,59.0,171.0,10.0,loss,0.0
+2023-05-14,2023,Chennai Super Kings,Kolkata Knight Riders,144.0,147.0,6.0,loss,0.0
+2023-05-14,2023,Kolkata Knight Riders,Chennai Super Kings,147.0,144.0,4.0,win,1.0
+2023-05-15,2023,Gujarat Titans,Sunrisers Hyderabad,188.0,154.0,9.0,win,1.0
+2023-05-15,2023,Sunrisers Hyderabad,Gujarat Titans,154.0,188.0,9.0,loss,0.0
+2023-05-16,2023,Lucknow Super Giants,Mumbai Indians,177.0,172.0,4.0,win,1.0
+2023-05-16,2023,Mumbai Indians,Lucknow Super Giants,172.0,177.0,5.0,loss,0.0
+2023-05-17,2023,Delhi Capitals,Punjab Kings,213.0,198.0,2.0,win,1.0
+2023-05-17,2023,Punjab Kings,Delhi Capitals,198.0,213.0,8.0,loss,0.0
+2023-05-18,2023,Sunrisers Hyderabad,Royal Challengers Bengaluru,186.0,187.0,5.0,loss,0.0
+2023-05-18,2023,Royal Challengers Bengaluru,Sunrisers Hyderabad,187.0,186.0,2.0,win,1.0
+2023-05-19,2023,Punjab Kings,Rajasthan Royals,187.0,189.0,5.0,loss,0.0
+2023-05-19,2023,Rajasthan Royals,Punjab Kings,189.0,187.0,6.0,win,1.0
+2023-05-20,2023,Chennai Super Kings,Delhi Capitals,223.0,146.0,3.0,win,1.0
+2023-05-20,2023,Delhi Capitals,Chennai Super Kings,146.0,223.0,9.0,loss,0.0
+2023-05-20,2023,Lucknow Super Giants,Kolkata Knight Riders,176.0,175.0,8.0,win,1.0
+2023-05-20,2023,Kolkata Knight Riders,Lucknow Super Giants,175.0,176.0,7.0,loss,0.0
+2023-05-21,2023,Sunrisers Hyderabad,Mumbai Indians,200.0,201.0,5.0,loss,0.0
+2023-05-21,2023,Mumbai Indians,Sunrisers Hyderabad,201.0,200.0,2.0,win,1.0
+2023-05-21,2023,Royal Challengers Bengaluru,Gujarat Titans,197.0,198.0,5.0,loss,0.0
+2023-05-21,2023,Gujarat Titans,Royal Challengers Bengaluru,198.0,197.0,4.0,win,1.0
+2023-05-23,2023,Chennai Super Kings,Gujarat Titans,172.0,157.0,7.0,win,1.0
+2023-05-23,2023,Gujarat Titans,Chennai Super Kings,157.0,172.0,10.0,loss,0.0
+2023-05-24,2023,Mumbai Indians,Lucknow Super Giants,182.0,101.0,8.0,win,1.0
+2023-05-24,2023,Lucknow Super Giants,Mumbai Indians,101.0,182.0,10.0,loss,0.0
+2023-05-26,2023,Gujarat Titans,Mumbai Indians,233.0,171.0,3.0,win,1.0
+2023-05-26,2023,Mumbai Indians,Gujarat Titans,171.0,233.0,10.0,loss,0.0
+2023-05-29,2023,Gujarat Titans,Chennai Super Kings,214.0,171.0,4.0,loss,0.0
+2023-05-29,2023,Chennai Super Kings,Gujarat Titans,171.0,214.0,5.0,win,1.0
+2024-03-22,2024,Royal Challengers Bengaluru,Chennai Super Kings,173.0,176.0,6.0,loss,0.0
+2024-03-22,2024,Chennai Super Kings,Royal Challengers Bengaluru,176.0,173.0,4.0,win,1.0
+2024-03-23,2024,Delhi Capitals,Punjab Kings,174.0,177.0,9.0,loss,0.0
+2024-03-23,2024,Punjab Kings,Delhi Capitals,177.0,174.0,6.0,win,1.0
+2024-03-23,2024,Kolkata Knight Riders,Sunrisers Hyderabad,208.0,204.0,7.0,win,1.0
+2024-03-23,2024,Sunrisers Hyderabad,Kolkata Knight Riders,204.0,208.0,7.0,loss,0.0
+2024-03-24,2024,Rajasthan Royals,Lucknow Super Giants,193.0,173.0,4.0,win,1.0
+2024-03-24,2024,Lucknow Super Giants,Rajasthan Royals,173.0,193.0,6.0,loss,0.0
+2024-03-24,2024,Gujarat Titans,Mumbai Indians,168.0,162.0,6.0,win,1.0
+2024-03-24,2024,Mumbai Indians,Gujarat Titans,162.0,168.0,9.0,loss,0.0
+2024-03-25,2024,Punjab Kings,Royal Challengers Bengaluru,176.0,178.0,6.0,loss,0.0
+2024-03-25,2024,Royal Challengers Bengaluru,Punjab Kings,178.0,176.0,6.0,win,1.0
+2024-03-26,2024,Chennai Super Kings,Gujarat Titans,206.0,143.0,6.0,win,1.0
+2024-03-26,2024,Gujarat Titans,Chennai Super Kings,143.0,206.0,8.0,loss,0.0
+2024-03-27,2024,Sunrisers Hyderabad,Mumbai Indians,277.0,246.0,3.0,win,1.0
+2024-03-27,2024,Mumbai Indians,Sunrisers Hyderabad,246.0,277.0,5.0,loss,0.0
+2024-03-28,2024,Rajasthan Royals,Delhi Capitals,185.0,173.0,5.0,win,1.0
+2024-03-28,2024,Delhi Capitals,Rajasthan Royals,173.0,185.0,5.0,loss,0.0
+2024-03-29,2024,Royal Challengers Bengaluru,Kolkata Knight Riders,182.0,186.0,6.0,loss,0.0
+2024-03-29,2024,Kolkata Knight Riders,Royal Challengers Bengaluru,186.0,182.0,3.0,win,1.0
+2024-03-30,2024,Lucknow Super Giants,Punjab Kings,199.0,178.0,8.0,win,1.0
+2024-03-30,2024,Punjab Kings,Lucknow Super Giants,178.0,199.0,5.0,loss,0.0
+2024-03-31,2024,Sunrisers Hyderabad,Gujarat Titans,162.0,168.0,8.0,loss,0.0
+2024-03-31,2024,Gujarat Titans,Sunrisers Hyderabad,168.0,162.0,3.0,win,1.0
+2024-03-31,2024,Delhi Capitals,Chennai Super Kings,191.0,171.0,5.0,win,1.0
+2024-03-31,2024,Chennai Super Kings,Delhi Capitals,171.0,191.0,6.0,loss,0.0
+2024-04-01,2024,Mumbai Indians,Rajasthan Royals,125.0,127.0,9.0,loss,0.0
+2024-04-01,2024,Rajasthan Royals,Mumbai Indians,127.0,125.0,4.0,win,1.0
+2024-04-02,2024,Lucknow Super Giants,Royal Challengers Bengaluru,181.0,153.0,5.0,win,1.0
+2024-04-02,2024,Royal Challengers Bengaluru,Lucknow Super Giants,153.0,181.0,10.0,loss,0.0
+2024-04-03,2024,Kolkata Knight Riders,Delhi Capitals,272.0,166.0,7.0,win,1.0
+2024-04-03,2024,Delhi Capitals,Kolkata Knight Riders,166.0,272.0,10.0,loss,0.0
+2024-04-04,2024,Gujarat Titans,Punjab Kings,199.0,200.0,4.0,loss,0.0
+2024-04-04,2024,Punjab Kings,Gujarat Titans,200.0,199.0,7.0,win,1.0
+2024-04-05,2024,Chennai Super Kings,Sunrisers Hyderabad,165.0,166.0,5.0,loss,0.0
+2024-04-05,2024,Sunrisers Hyderabad,Chennai Super Kings,166.0,165.0,4.0,win,1.0
+2024-04-06,2024,Royal Challengers Bengaluru,Rajasthan Royals,183.0,189.0,3.0,loss,0.0
+2024-04-06,2024,Rajasthan Royals,Royal Challengers Bengaluru,189.0,183.0,4.0,win,1.0
+2024-04-07,2024,Mumbai Indians,Delhi Capitals,234.0,205.0,5.0,win,1.0
+2024-04-07,2024,Delhi Capitals,Mumbai Indians,205.0,234.0,8.0,loss,0.0
+2024-04-07,2024,Lucknow Super Giants,Gujarat Titans,163.0,130.0,5.0,win,1.0
+2024-04-07,2024,Gujarat Titans,Lucknow Super Giants,130.0,163.0,10.0,loss,0.0
+2024-04-08,2024,Kolkata Knight Riders,Chennai Super Kings,137.0,141.0,9.0,loss,0.0
+2024-04-08,2024,Chennai Super Kings,Kolkata Knight Riders,141.0,137.0,3.0,win,1.0
+2024-04-09,2024,Sunrisers Hyderabad,Punjab Kings,182.0,180.0,9.0,win,1.0
+2024-04-09,2024,Punjab Kings,Sunrisers Hyderabad,180.0,182.0,6.0,loss,0.0
+2024-04-10,2024,Rajasthan Royals,Gujarat Titans,196.0,199.0,3.0,loss,0.0
+2024-04-10,2024,Gujarat Titans,Rajasthan Royals,199.0,196.0,7.0,win,1.0
+2024-04-11,2024,Royal Challengers Bengaluru,Mumbai Indians,196.0,199.0,8.0,loss,0.0
+2024-04-11,2024,Mumbai Indians,Royal Challengers Bengaluru,199.0,196.0,3.0,win,1.0
+2024-04-12,2024,Lucknow Super Giants,Delhi Capitals,167.0,170.0,7.0,loss,0.0
+2024-04-12,2024,Delhi Capitals,Lucknow Super Giants,170.0,167.0,4.0,win,1.0
+2024-04-13,2024,Punjab Kings,Rajasthan Royals,147.0,152.0,8.0,loss,0.0
+2024-04-13,2024,Rajasthan Royals,Punjab Kings,152.0,147.0,7.0,win,1.0
+2024-04-14,2024,Lucknow Super Giants,Kolkata Knight Riders,161.0,162.0,7.0,loss,0.0
+2024-04-14,2024,Kolkata Knight Riders,Lucknow Super Giants,162.0,161.0,2.0,win,1.0
+2024-04-14,2024,Chennai Super Kings,Mumbai Indians,206.0,186.0,4.0,win,1.0
+2024-04-14,2024,Mumbai Indians,Chennai Super Kings,186.0,206.0,6.0,loss,0.0
+2024-04-15,2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,287.0,262.0,3.0,win,1.0
+2024-04-15,2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,262.0,287.0,7.0,loss,0.0
+2024-04-16,2024,Kolkata Knight Riders,Rajasthan Royals,223.0,224.0,6.0,loss,0.0
+2024-04-16,2024,Rajasthan Royals,Kolkata Knight Riders,224.0,223.0,8.0,win,1.0
+2024-04-17,2024,Gujarat Titans,Delhi Capitals,89.0,92.0,10.0,loss,0.0
+2024-04-17,2024,Delhi Capitals,Gujarat Titans,92.0,89.0,4.0,win,1.0
+2024-04-18,2024,Mumbai Indians,Punjab Kings,192.0,183.0,7.0,win,1.0
+2024-04-18,2024,Punjab Kings,Mumbai Indians,183.0,192.0,10.0,loss,0.0
+2024-04-19,2024,Chennai Super Kings,Lucknow Super Giants,176.0,180.0,6.0,loss,0.0
+2024-04-19,2024,Lucknow Super Giants,Chennai Super Kings,180.0,176.0,2.0,win,1.0
+2024-04-20,2024,Sunrisers Hyderabad,Delhi Capitals,266.0,199.0,7.0,win,1.0
+2024-04-20,2024,Delhi Capitals,Sunrisers Hyderabad,199.0,266.0,10.0,loss,0.0
+2024-04-21,2024,Kolkata Knight Riders,Royal Challengers Bengaluru,222.0,221.0,6.0,win,1.0
+2024-04-21,2024,Royal Challengers Bengaluru,Kolkata Knight Riders,221.0,222.0,10.0,loss,0.0
+2024-04-21,2024,Punjab Kings,Gujarat Titans,142.0,146.0,10.0,loss,0.0
+2024-04-21,2024,Gujarat Titans,Punjab Kings,146.0,142.0,7.0,win,1.0
+2024-04-22,2024,Mumbai Indians,Rajasthan Royals,179.0,183.0,9.0,loss,0.0
+2024-04-22,2024,Rajasthan Royals,Mumbai Indians,183.0,179.0,1.0,win,1.0
+2024-04-23,2024,Chennai Super Kings,Lucknow Super Giants,210.0,213.0,4.0,loss,0.0
+2024-04-23,2024,Lucknow Super Giants,Chennai Super Kings,213.0,210.0,4.0,win,1.0
+2024-04-24,2024,Delhi Capitals,Gujarat Titans,224.0,220.0,4.0,win,1.0
+2024-04-24,2024,Gujarat Titans,Delhi Capitals,220.0,224.0,8.0,loss,0.0
+2024-04-25,2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,206.0,171.0,7.0,win,1.0
+2024-04-25,2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,171.0,206.0,8.0,loss,0.0
+2024-04-26,2024,Kolkata Knight Riders,Punjab Kings,261.0,262.0,6.0,loss,0.0
+2024-04-26,2024,Punjab Kings,Kolkata Knight Riders,262.0,261.0,2.0,win,1.0
+2024-04-27,2024,Delhi Capitals,Mumbai Indians,257.0,247.0,4.0,win,1.0
+2024-04-27,2024,Mumbai Indians,Delhi Capitals,247.0,257.0,9.0,loss,0.0
+2024-04-27,2024,Lucknow Super Giants,Rajasthan Royals,196.0,199.0,5.0,loss,0.0
+2024-04-27,2024,Rajasthan Royals,Lucknow Super Giants,199.0,196.0,3.0,win,1.0
+2024-04-28,2024,Gujarat Titans,Royal Challengers Bengaluru,200.0,206.0,3.0,loss,0.0
+2024-04-28,2024,Royal Challengers Bengaluru,Gujarat Titans,206.0,200.0,1.0,win,1.0
+2024-04-28,2024,Chennai Super Kings,Sunrisers Hyderabad,212.0,134.0,3.0,win,1.0
+2024-04-28,2024,Sunrisers Hyderabad,Chennai Super Kings,134.0,212.0,10.0,loss,0.0
+2024-04-29,2024,Delhi Capitals,Kolkata Knight Riders,153.0,157.0,9.0,loss,0.0
+2024-04-29,2024,Kolkata Knight Riders,Delhi Capitals,157.0,153.0,3.0,win,1.0
+2024-04-30,2024,Mumbai Indians,Lucknow Super Giants,144.0,145.0,7.0,loss,0.0
+2024-04-30,2024,Lucknow Super Giants,Mumbai Indians,145.0,144.0,6.0,win,1.0
+2024-05-01,2024,Chennai Super Kings,Punjab Kings,162.0,163.0,7.0,loss,0.0
+2024-05-01,2024,Punjab Kings,Chennai Super Kings,163.0,162.0,3.0,win,1.0
+2024-05-02,2024,Sunrisers Hyderabad,Rajasthan Royals,201.0,200.0,3.0,win,1.0
+2024-05-02,2024,Rajasthan Royals,Sunrisers Hyderabad,200.0,201.0,7.0,loss,0.0
+2024-05-03,2024,Kolkata Knight Riders,Mumbai Indians,169.0,145.0,10.0,win,1.0
+2024-05-03,2024,Mumbai Indians,Kolkata Knight Riders,145.0,169.0,10.0,loss,0.0
+2024-05-04,2024,Gujarat Titans,Royal Challengers Bengaluru,147.0,152.0,10.0,loss,0.0
+2024-05-04,2024,Royal Challengers Bengaluru,Gujarat Titans,152.0,147.0,6.0,win,1.0
+2024-05-05,2024,Chennai Super Kings,Punjab Kings,167.0,139.0,9.0,win,1.0
+2024-05-05,2024,Punjab Kings,Chennai Super Kings,139.0,167.0,9.0,loss,0.0
+2024-05-05,2024,Kolkata Knight Riders,Lucknow Super Giants,235.0,137.0,6.0,win,1.0
+2024-05-05,2024,Lucknow Super Giants,Kolkata Knight Riders,137.0,235.0,10.0,loss,0.0
+2024-05-06,2024,Sunrisers Hyderabad,Mumbai Indians,173.0,174.0,8.0,loss,0.0
+2024-05-06,2024,Mumbai Indians,Sunrisers Hyderabad,174.0,173.0,3.0,win,1.0
+2024-05-07,2024,Delhi Capitals,Rajasthan Royals,221.0,201.0,8.0,win,1.0
+2024-05-07,2024,Rajasthan Royals,Delhi Capitals,201.0,221.0,8.0,loss,0.0
+2024-05-08,2024,Lucknow Super Giants,Sunrisers Hyderabad,165.0,167.0,4.0,loss,0.0
+2024-05-08,2024,Sunrisers Hyderabad,Lucknow Super Giants,167.0,165.0,0.0,win,1.0
+2024-05-09,2024,Royal Challengers Bengaluru,Punjab Kings,241.0,181.0,7.0,win,1.0
+2024-05-09,2024,Punjab Kings,Royal Challengers Bengaluru,181.0,241.0,10.0,loss,0.0
+2024-05-10,2024,Gujarat Titans,Chennai Super Kings,231.0,196.0,3.0,win,1.0
+2024-05-10,2024,Chennai Super Kings,Gujarat Titans,196.0,231.0,8.0,loss,0.0
+2024-05-11,2024,Kolkata Knight Riders,Mumbai Indians,157.0,139.0,7.0,win,1.0
+2024-05-11,2024,Mumbai Indians,Kolkata Knight Riders,139.0,157.0,8.0,loss,0.0
+2024-05-12,2024,Rajasthan Royals,Chennai Super Kings,141.0,145.0,5.0,loss,0.0
+2024-05-12,2024,Chennai Super Kings,Rajasthan Royals,145.0,141.0,5.0,win,1.0
+2024-05-12,2024,Royal Challengers Bengaluru,Delhi Capitals,187.0,140.0,9.0,win,1.0
+2024-05-12,2024,Delhi Capitals,Royal Challengers Bengaluru,140.0,187.0,10.0,loss,0.0
+2024-05-14,2024,Delhi Capitals,Lucknow Super Giants,208.0,189.0,4.0,win,1.0
+2024-05-14,2024,Lucknow Super Giants,Delhi Capitals,189.0,208.0,9.0,loss,0.0
+2024-05-15,2024,Rajasthan Royals,Punjab Kings,144.0,145.0,9.0,loss,0.0
+2024-05-15,2024,Punjab Kings,Rajasthan Royals,145.0,144.0,5.0,win,1.0
+2024-05-17,2024,Lucknow Super Giants,Mumbai Indians,214.0,196.0,6.0,win,1.0
+2024-05-17,2024,Mumbai Indians,Lucknow Super Giants,196.0,214.0,6.0,loss,0.0
+2024-05-18,2024,Royal Challengers Bengaluru,Chennai Super Kings,218.0,191.0,5.0,win,1.0
+2024-05-18,2024,Chennai Super Kings,Royal Challengers Bengaluru,191.0,218.0,7.0,loss,0.0
+2024-05-19,2024,Punjab Kings,Sunrisers Hyderabad,214.0,215.0,5.0,loss,0.0
+2024-05-19,2024,Sunrisers Hyderabad,Punjab Kings,215.0,214.0,6.0,win,1.0
+2024-05-21,2024,Sunrisers Hyderabad,Kolkata Knight Riders,159.0,164.0,10.0,loss,0.0
+2024-05-21,2024,Kolkata Knight Riders,Sunrisers Hyderabad,164.0,159.0,2.0,win,1.0
+2024-05-22,2024,Royal Challengers Bengaluru,Rajasthan Royals,172.0,174.0,8.0,loss,0.0
+2024-05-22,2024,Rajasthan Royals,Royal Challengers Bengaluru,174.0,172.0,6.0,win,1.0
+2024-05-24,2024,Sunrisers Hyderabad,Rajasthan Royals,175.0,139.0,9.0,win,1.0
+2024-05-24,2024,Rajasthan Royals,Sunrisers Hyderabad,139.0,175.0,7.0,loss,0.0
+2024-05-26,2024,Sunrisers Hyderabad,Kolkata Knight Riders,113.0,114.0,10.0,loss,0.0
+2024-05-26,2024,Kolkata Knight Riders,Sunrisers Hyderabad,114.0,113.0,2.0,win,1.0
+2025-03-22,2025,Kolkata Knight Riders,Royal Challengers Bengaluru,174.0,177.0,8.0,loss,0.0
+2025-03-22,2025,Royal Challengers Bengaluru,Kolkata Knight Riders,177.0,174.0,3.0,win,1.0
+2025-03-23,2025,Sunrisers Hyderabad,Rajasthan Royals,286.0,242.0,6.0,win,1.0
+2025-03-23,2025,Rajasthan Royals,Sunrisers Hyderabad,242.0,286.0,6.0,loss,0.0
+2025-03-23,2025,Mumbai Indians,Chennai Super Kings,155.0,158.0,9.0,loss,0.0
+2025-03-23,2025,Chennai Super Kings,Mumbai Indians,158.0,155.0,6.0,win,1.0
+2025-03-24,2025,Lucknow Super Giants,Delhi Capitals,209.0,211.0,8.0,loss,0.0
+2025-03-24,2025,Delhi Capitals,Lucknow Super Giants,211.0,209.0,9.0,win,1.0
+2025-03-25,2025,Punjab Kings,Gujarat Titans,243.0,232.0,5.0,win,1.0
+2025-03-25,2025,Gujarat Titans,Punjab Kings,232.0,243.0,5.0,loss,0.0
+2025-03-26,2025,Rajasthan Royals,Kolkata Knight Riders,151.0,153.0,9.0,loss,0.0
+2025-03-26,2025,Kolkata Knight Riders,Rajasthan Royals,153.0,151.0,2.0,win,1.0
+2025-03-27,2025,Sunrisers Hyderabad,Lucknow Super Giants,190.0,193.0,9.0,loss,0.0
+2025-03-27,2025,Lucknow Super Giants,Sunrisers Hyderabad,193.0,190.0,5.0,win,1.0
+2025-03-28,2025,Royal Challengers Bengaluru,Chennai Super Kings,196.0,146.0,7.0,win,1.0
+2025-03-28,2025,Chennai Super Kings,Royal Challengers Bengaluru,146.0,196.0,8.0,loss,0.0
+2025-03-29,2025,Gujarat Titans,Mumbai Indians,196.0,160.0,8.0,win,1.0
+2025-03-29,2025,Mumbai Indians,Gujarat Titans,160.0,196.0,6.0,loss,0.0
+2025-03-30,2025,Sunrisers Hyderabad,Delhi Capitals,163.0,166.0,10.0,loss,0.0
+2025-03-30,2025,Delhi Capitals,Sunrisers Hyderabad,166.0,163.0,3.0,win,1.0
+2025-03-30,2025,Rajasthan Royals,Chennai Super Kings,182.0,176.0,9.0,win,1.0
+2025-03-30,2025,Chennai Super Kings,Rajasthan Royals,176.0,182.0,6.0,loss,0.0
+2025-03-31,2025,Kolkata Knight Riders,Mumbai Indians,116.0,121.0,10.0,loss,0.0
+2025-03-31,2025,Mumbai Indians,Kolkata Knight Riders,121.0,116.0,2.0,win,1.0
+2025-04-01,2025,Lucknow Super Giants,Punjab Kings,171.0,177.0,7.0,loss,0.0
+2025-04-01,2025,Punjab Kings,Lucknow Super Giants,177.0,171.0,2.0,win,1.0
+2025-04-02,2025,Royal Challengers Bengaluru,Gujarat Titans,169.0,170.0,8.0,loss,0.0
+2025-04-02,2025,Gujarat Titans,Royal Challengers Bengaluru,170.0,169.0,2.0,win,1.0
+2025-04-03,2025,Kolkata Knight Riders,Sunrisers Hyderabad,200.0,120.0,6.0,win,1.0
+2025-04-03,2025,Sunrisers Hyderabad,Kolkata Knight Riders,120.0,200.0,10.0,loss,0.0
+2025-04-04,2025,Lucknow Super Giants,Mumbai Indians,203.0,191.0,8.0,win,1.0
+2025-04-04,2025,Mumbai Indians,Lucknow Super Giants,191.0,203.0,5.0,loss,0.0
+2025-04-05,2025,Delhi Capitals,Chennai Super Kings,183.0,158.0,6.0,win,1.0
+2025-04-05,2025,Chennai Super Kings,Delhi Capitals,158.0,183.0,5.0,loss,0.0
+2025-04-05,2025,Rajasthan Royals,Punjab Kings,205.0,155.0,4.0,win,1.0
+2025-04-05,2025,Punjab Kings,Rajasthan Royals,155.0,205.0,9.0,loss,0.0
+2025-04-08,2025,Lucknow Super Giants,Kolkata Knight Riders,238.0,234.0,3.0,win,1.0
+2025-04-08,2025,Kolkata Knight Riders,Lucknow Super Giants,234.0,238.0,7.0,loss,0.0
+2025-04-06,2025,Sunrisers Hyderabad,Gujarat Titans,152.0,153.0,8.0,loss,0.0
+2025-04-06,2025,Gujarat Titans,Sunrisers Hyderabad,153.0,152.0,3.0,win,1.0
+2025-04-07,2025,Royal Challengers Bengaluru,Mumbai Indians,221.0,209.0,5.0,win,1.0
+2025-04-07,2025,Mumbai Indians,Royal Challengers Bengaluru,209.0,221.0,9.0,loss,0.0
+2025-04-08,2025,Punjab Kings,Chennai Super Kings,219.0,201.0,6.0,win,1.0
+2025-04-08,2025,Chennai Super Kings,Punjab Kings,201.0,219.0,5.0,loss,0.0
+2025-04-09,2025,Gujarat Titans,Rajasthan Royals,217.0,159.0,6.0,win,1.0
+2025-04-09,2025,Rajasthan Royals,Gujarat Titans,159.0,217.0,10.0,loss,0.0
+2025-04-10,2025,Royal Challengers Bengaluru,Delhi Capitals,163.0,169.0,7.0,loss,0.0
+2025-04-10,2025,Delhi Capitals,Royal Challengers Bengaluru,169.0,163.0,4.0,win,1.0
+2025-04-11,2025,Chennai Super Kings,Kolkata Knight Riders,103.0,107.0,9.0,loss,0.0
+2025-04-11,2025,Kolkata Knight Riders,Chennai Super Kings,107.0,103.0,2.0,win,1.0
+2025-04-12,2025,Gujarat Titans,Lucknow Super Giants,180.0,186.0,6.0,loss,0.0
+2025-04-12,2025,Lucknow Super Giants,Gujarat Titans,186.0,180.0,4.0,win,1.0
+2025-04-12,2025,Punjab Kings,Sunrisers Hyderabad,245.0,247.0,6.0,loss,0.0
+2025-04-12,2025,Sunrisers Hyderabad,Punjab Kings,247.0,245.0,2.0,win,1.0
+2025-04-13,2025,Rajasthan Royals,Royal Challengers Bengaluru,173.0,175.0,4.0,loss,0.0
+2025-04-13,2025,Royal Challengers Bengaluru,Rajasthan Royals,175.0,173.0,1.0,win,1.0
+2025-04-13,2025,Mumbai Indians,Delhi Capitals,205.0,193.0,5.0,win,1.0
+2025-04-13,2025,Delhi Capitals,Mumbai Indians,193.0,205.0,10.0,loss,0.0
+2025-04-14,2025,Lucknow Super Giants,Chennai Super Kings,166.0,168.0,7.0,loss,0.0
+2025-04-14,2025,Chennai Super Kings,Lucknow Super Giants,168.0,166.0,5.0,win,1.0
+2025-04-15,2025,Punjab Kings,Kolkata Knight Riders,111.0,95.0,10.0,win,1.0
+2025-04-15,2025,Kolkata Knight Riders,Punjab Kings,95.0,111.0,10.0,loss,0.0
+2025-04-16,2025,Delhi Capitals,Rajasthan Royals,188.0,188.0,5.0,tie,
+2025-04-16,2025,Rajasthan Royals,Delhi Capitals,188.0,188.0,5.0,tie,
+2025-04-17,2025,Sunrisers Hyderabad,Mumbai Indians,162.0,166.0,5.0,loss,0.0
+2025-04-17,2025,Mumbai Indians,Sunrisers Hyderabad,166.0,162.0,6.0,win,1.0
+2025-04-18,2025,Royal Challengers Bengaluru,Punjab Kings,95.0,98.0,9.0,loss,0.0
+2025-04-18,2025,Punjab Kings,Royal Challengers Bengaluru,98.0,95.0,5.0,win,1.0
+2025-04-19,2025,Delhi Capitals,Gujarat Titans,203.0,204.0,8.0,loss,0.0
+2025-04-19,2025,Gujarat Titans,Delhi Capitals,204.0,203.0,3.0,win,1.0
+2025-04-19,2025,Lucknow Super Giants,Rajasthan Royals,180.0,178.0,5.0,win,1.0
+2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,178.0,180.0,5.0,loss,0.0
+2025-04-20,2025,Punjab Kings,Royal Challengers Bengaluru,157.0,159.0,6.0,loss,0.0
+2025-04-20,2025,Royal Challengers Bengaluru,Punjab Kings,159.0,157.0,3.0,win,1.0
+2025-04-20,2025,Chennai Super Kings,Mumbai Indians,176.0,177.0,5.0,loss,0.0
+2025-04-20,2025,Mumbai Indians,Chennai Super Kings,177.0,176.0,1.0,win,1.0
+2025-04-21,2025,Gujarat Titans,Kolkata Knight Riders,198.0,159.0,3.0,win,1.0
+2025-04-21,2025,Kolkata Knight Riders,Gujarat Titans,159.0,198.0,8.0,loss,0.0
+2025-04-22,2025,Lucknow Super Giants,Delhi Capitals,159.0,161.0,6.0,loss,0.0
+2025-04-22,2025,Delhi Capitals,Lucknow Super Giants,161.0,159.0,2.0,win,1.0
+2025-04-23,2025,Sunrisers Hyderabad,Mumbai Indians,143.0,146.0,8.0,loss,0.0
+2025-04-23,2025,Mumbai Indians,Sunrisers Hyderabad,146.0,143.0,3.0,win,1.0
+2025-04-24,2025,Royal Challengers Bengaluru,Rajasthan Royals,205.0,194.0,5.0,win,1.0
+2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,194.0,205.0,9.0,loss,0.0
+2025-04-25,2025,Chennai Super Kings,Sunrisers Hyderabad,154.0,155.0,10.0,loss,0.0
+2025-04-25,2025,Sunrisers Hyderabad,Chennai Super Kings,155.0,154.0,5.0,win,1.0
+2025-04-26,2025,Punjab Kings,Kolkata Knight Riders,201.0,7.0,4.0,no result,
+2025-04-26,2025,Kolkata Knight Riders,Punjab Kings,7.0,201.0,0.0,no result,
+2025-04-27,2025,Mumbai Indians,Lucknow Super Giants,215.0,161.0,7.0,win,1.0
+2025-04-27,2025,Lucknow Super Giants,Mumbai Indians,161.0,215.0,10.0,loss,0.0
+2025-04-27,2025,Delhi Capitals,Royal Challengers Bengaluru,162.0,165.0,8.0,loss,0.0
+2025-04-27,2025,Royal Challengers Bengaluru,Delhi Capitals,165.0,162.0,4.0,win,1.0
+2025-04-28,2025,Gujarat Titans,Rajasthan Royals,209.0,212.0,4.0,loss,0.0
+2025-04-28,2025,Rajasthan Royals,Gujarat Titans,212.0,209.0,2.0,win,1.0
+2025-04-29,2025,Kolkata Knight Riders,Delhi Capitals,204.0,190.0,9.0,win,1.0
+2025-04-29,2025,Delhi Capitals,Kolkata Knight Riders,190.0,204.0,9.0,loss,0.0
+2025-04-30,2025,Chennai Super Kings,Punjab Kings,190.0,194.0,10.0,loss,0.0
+2025-04-30,2025,Punjab Kings,Chennai Super Kings,194.0,190.0,6.0,win,1.0
+2025-05-01,2025,Mumbai Indians,Rajasthan Royals,217.0,117.0,2.0,win,1.0
+2025-05-01,2025,Rajasthan Royals,Mumbai Indians,117.0,217.0,10.0,loss,0.0
+2025-05-02,2025,Gujarat Titans,Sunrisers Hyderabad,224.0,186.0,6.0,win,1.0
+2025-05-02,2025,Sunrisers Hyderabad,Gujarat Titans,186.0,224.0,6.0,loss,0.0
+2025-05-03,2025,Royal Challengers Bengaluru,Chennai Super Kings,213.0,211.0,5.0,win,1.0
+2025-05-03,2025,Chennai Super Kings,Royal Challengers Bengaluru,211.0,213.0,5.0,loss,0.0
+2025-05-04,2025,Kolkata Knight Riders,Rajasthan Royals,206.0,205.0,4.0,win,1.0
+2025-05-04,2025,Rajasthan Royals,Kolkata Knight Riders,205.0,206.0,8.0,loss,0.0
+2025-05-04,2025,Punjab Kings,Lucknow Super Giants,236.0,199.0,5.0,win,1.0
+2025-05-04,2025,Lucknow Super Giants,Punjab Kings,199.0,236.0,7.0,loss,0.0
+2025-05-05,2025,Delhi Capitals,Sunrisers Hyderabad,133.0,,7.0,no result,
+2025-05-05,2025,Sunrisers Hyderabad,Delhi Capitals,,133.0,,no result,
+2025-05-06,2025,Mumbai Indians,Gujarat Titans,155.0,147.0,8.0,loss,0.0
+2025-05-06,2025,Gujarat Titans,Mumbai Indians,147.0,155.0,7.0,win,1.0
+2025-05-07,2025,Kolkata Knight Riders,Chennai Super Kings,179.0,183.0,6.0,loss,0.0
+2025-05-07,2025,Chennai Super Kings,Kolkata Knight Riders,183.0,179.0,8.0,win,1.0
+2025-05-08,2025,Punjab Kings,Delhi Capitals,122.0,,1.0,no result,
+2025-05-08,2025,Delhi Capitals,Punjab Kings,,122.0,,no result,
+2025-05-18,2025,Punjab Kings,Rajasthan Royals,219.0,209.0,5.0,win,1.0
+2025-05-18,2025,Rajasthan Royals,Punjab Kings,209.0,219.0,7.0,loss,0.0
+2025-05-18,2025,Delhi Capitals,Gujarat Titans,199.0,205.0,3.0,loss,0.0
+2025-05-18,2025,Gujarat Titans,Delhi Capitals,205.0,199.0,0.0,win,1.0
+2025-05-19,2025,Lucknow Super Giants,Sunrisers Hyderabad,205.0,206.0,7.0,loss,0.0
+2025-05-19,2025,Sunrisers Hyderabad,Lucknow Super Giants,206.0,205.0,5.0,win,1.0
+2025-05-20,2025,Chennai Super Kings,Rajasthan Royals,187.0,188.0,8.0,loss,0.0
+2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,188.0,187.0,4.0,win,1.0
+2025-05-21,2025,Mumbai Indians,Delhi Capitals,180.0,121.0,5.0,win,1.0
+2025-05-21,2025,Delhi Capitals,Mumbai Indians,121.0,180.0,10.0,loss,0.0
+2025-05-22,2025,Lucknow Super Giants,Gujarat Titans,235.0,202.0,2.0,win,1.0
+2025-05-22,2025,Gujarat Titans,Lucknow Super Giants,202.0,235.0,9.0,loss,0.0
+2025-05-23,2025,Sunrisers Hyderabad,Royal Challengers Bengaluru,231.0,189.0,6.0,win,1.0
+2025-05-23,2025,Royal Challengers Bengaluru,Sunrisers Hyderabad,189.0,231.0,10.0,loss,0.0
+2025-05-25,2025,Chennai Super Kings,Gujarat Titans,230.0,147.0,5.0,win,1.0
+2025-05-25,2025,Gujarat Titans,Chennai Super Kings,147.0,230.0,10.0,loss,0.0
+2025-05-25,2025,Sunrisers Hyderabad,Kolkata Knight Riders,278.0,168.0,3.0,win,1.0
+2025-05-25,2025,Kolkata Knight Riders,Sunrisers Hyderabad,168.0,278.0,10.0,loss,0.0
+2025-05-26,2025,Mumbai Indians,Punjab Kings,184.0,187.0,7.0,loss,0.0
+2025-05-26,2025,Punjab Kings,Mumbai Indians,187.0,184.0,3.0,win,1.0
+2025-05-27,2025,Lucknow Super Giants,Royal Challengers Bengaluru,227.0,230.0,3.0,loss,0.0
+2025-05-27,2025,Royal Challengers Bengaluru,Lucknow Super Giants,230.0,227.0,4.0,win,1.0
+2025-05-29,2025,Punjab Kings,Royal Challengers Bengaluru,101.0,106.0,10.0,loss,0.0
+2025-05-29,2025,Royal Challengers Bengaluru,Punjab Kings,106.0,101.0,2.0,win,1.0
+2025-05-30,2025,Mumbai Indians,Gujarat Titans,228.0,208.0,5.0,win,1.0
+2025-05-30,2025,Gujarat Titans,Mumbai Indians,208.0,228.0,6.0,loss,0.0
+2025-06-01,2025,Mumbai Indians,Punjab Kings,203.0,207.0,6.0,loss,0.0
+2025-06-01,2025,Punjab Kings,Mumbai Indians,207.0,203.0,5.0,win,1.0
+2025-06-03,2025,Royal Challengers Bengaluru,Punjab Kings,190.0,184.0,9.0,win,1.0
+2025-06-03,2025,Punjab Kings,Royal Challengers Bengaluru,184.0,190.0,7.0,loss,0.0
+2025-05-24,2025,Punjab Kings,Delhi Capitals,206.0,208.0,8.0,loss,0.0
+2025-05-24,2025,Delhi Capitals,Punjab Kings,208.0,206.0,4.0,win,1.0

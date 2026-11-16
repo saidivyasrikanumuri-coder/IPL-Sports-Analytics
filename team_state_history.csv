@@ -1,0 +1,417 @@
+season,team,date,state
+2022,Chennai Super Kings,2022-04-12,Weak
+2022,Chennai Super Kings,2022-04-17,Weak
+2022,Chennai Super Kings,2022-04-21,Stable
+2022,Chennai Super Kings,2022-04-25,Stable
+2022,Chennai Super Kings,2022-05-01,Strong
+2022,Chennai Super Kings,2022-05-04,Stable
+2022,Chennai Super Kings,2022-05-08,Strong
+2022,Chennai Super Kings,2022-05-12,Stable
+2022,Chennai Super Kings,2022-05-15,Stable
+2022,Chennai Super Kings,2022-05-20,Weak
+2022,Delhi Capitals,2022-04-16,Stable
+2022,Delhi Capitals,2022-04-20,Stable
+2022,Delhi Capitals,2022-04-22,Stable
+2022,Delhi Capitals,2022-04-28,Strong
+2022,Delhi Capitals,2022-05-01,Stable
+2022,Delhi Capitals,2022-05-05,Strong
+2022,Delhi Capitals,2022-05-08,Stable
+2022,Delhi Capitals,2022-05-11,Strong
+2022,Delhi Capitals,2022-05-16,Strong
+2022,Delhi Capitals,2022-05-21,Strong
+2022,Gujarat Titans,2022-04-14,Strong
+2022,Gujarat Titans,2022-04-17,Strong
+2022,Gujarat Titans,2022-04-23,Strong
+2022,Gujarat Titans,2022-04-27,Strong
+2022,Gujarat Titans,2022-04-30,Strong
+2022,Gujarat Titans,2022-05-03,Strong
+2022,Gujarat Titans,2022-05-06,Strong
+2022,Gujarat Titans,2022-05-10,Strong
+2022,Gujarat Titans,2022-05-15,Strong
+2022,Gujarat Titans,2022-05-19,Stable
+2022,Gujarat Titans,2022-05-24,Strong
+2022,Gujarat Titans,2022-05-29,Strong
+2022,Kolkata Knight Riders,2022-04-10,Strong
+2022,Kolkata Knight Riders,2022-04-15,Stable
+2022,Kolkata Knight Riders,2022-04-18,Stable
+2022,Kolkata Knight Riders,2022-04-23,Weak
+2022,Kolkata Knight Riders,2022-04-28,Weak
+2022,Kolkata Knight Riders,2022-05-02,Weak
+2022,Kolkata Knight Riders,2022-05-07,Weak
+2022,Kolkata Knight Riders,2022-05-09,Stable
+2022,Kolkata Knight Riders,2022-05-14,Strong
+2022,Kolkata Knight Riders,2022-05-18,Strong
+2022,Lucknow Super Giants,2022-04-10,Strong
+2022,Lucknow Super Giants,2022-04-16,Strong
+2022,Lucknow Super Giants,2022-04-19,Strong
+2022,Lucknow Super Giants,2022-04-24,Strong
+2022,Lucknow Super Giants,2022-04-29,Strong
+2022,Lucknow Super Giants,2022-05-01,Strong
+2022,Lucknow Super Giants,2022-05-07,Strong
+2022,Lucknow Super Giants,2022-05-10,Strong
+2022,Lucknow Super Giants,2022-05-15,Strong
+2022,Lucknow Super Giants,2022-05-18,Strong
+2022,Lucknow Super Giants,2022-05-25,Stable
+2022,Mumbai Indians,2022-04-13,Weak
+2022,Mumbai Indians,2022-04-16,Weak
+2022,Mumbai Indians,2022-04-21,Weak
+2022,Mumbai Indians,2022-04-24,Weak
+2022,Mumbai Indians,2022-04-30,Weak
+2022,Mumbai Indians,2022-05-06,Stable
+2022,Mumbai Indians,2022-05-09,Stable
+2022,Mumbai Indians,2022-05-12,Strong
+2022,Mumbai Indians,2022-05-17,Strong
+2022,Mumbai Indians,2022-05-21,Strong
+2022,Punjab Kings,2022-04-13,Strong
+2022,Punjab Kings,2022-04-17,Stable
+2022,Punjab Kings,2022-04-20,Stable
+2022,Punjab Kings,2022-04-25,Stable
+2022,Punjab Kings,2022-04-29,Stable
+2022,Punjab Kings,2022-05-03,Stable
+2022,Punjab Kings,2022-05-07,Stable
+2022,Punjab Kings,2022-05-13,Strong
+2022,Punjab Kings,2022-05-16,Stable
+2022,Punjab Kings,2022-05-22,Strong
+2022,Rajasthan Royals,2022-04-14,Strong
+2022,Rajasthan Royals,2022-04-18,Strong
+2022,Rajasthan Royals,2022-04-22,Strong
+2022,Rajasthan Royals,2022-04-26,Strong
+2022,Rajasthan Royals,2022-04-30,Strong
+2022,Rajasthan Royals,2022-05-02,Strong
+2022,Rajasthan Royals,2022-05-07,Strong
+2022,Rajasthan Royals,2022-05-11,Stable
+2022,Rajasthan Royals,2022-05-15,Stable
+2022,Rajasthan Royals,2022-05-20,Strong
+2022,Rajasthan Royals,2022-05-24,Strong
+2022,Rajasthan Royals,2022-05-27,Strong
+2022,Rajasthan Royals,2022-05-29,Strong
+2022,Royal Challengers Bengaluru,2022-04-12,Strong
+2022,Royal Challengers Bengaluru,2022-04-16,Strong
+2022,Royal Challengers Bengaluru,2022-04-19,Strong
+2022,Royal Challengers Bengaluru,2022-04-23,Strong
+2022,Royal Challengers Bengaluru,2022-04-26,Stable
+2022,Royal Challengers Bengaluru,2022-04-30,Stable
+2022,Royal Challengers Bengaluru,2022-05-04,Stable
+2022,Royal Challengers Bengaluru,2022-05-08,Stable
+2022,Royal Challengers Bengaluru,2022-05-13,Stable
+2022,Royal Challengers Bengaluru,2022-05-19,Strong
+2022,Royal Challengers Bengaluru,2022-05-25,Strong
+2022,Royal Challengers Bengaluru,2022-05-27,Strong
+2022,Sunrisers Hyderabad,2022-04-15,Strong
+2022,Sunrisers Hyderabad,2022-04-17,Strong
+2022,Sunrisers Hyderabad,2022-04-23,Strong
+2022,Sunrisers Hyderabad,2022-04-27,Strong
+2022,Sunrisers Hyderabad,2022-05-01,Strong
+2022,Sunrisers Hyderabad,2022-05-05,Stable
+2022,Sunrisers Hyderabad,2022-05-08,Weak
+2022,Sunrisers Hyderabad,2022-05-14,Weak
+2022,Sunrisers Hyderabad,2022-05-17,Weak
+2022,Sunrisers Hyderabad,2022-05-22,Weak
+2023,Chennai Super Kings,2023-04-17,Strong
+2023,Chennai Super Kings,2023-04-21,Strong
+2023,Chennai Super Kings,2023-04-23,Strong
+2023,Chennai Super Kings,2023-04-27,Strong
+2023,Chennai Super Kings,2023-04-30,Strong
+2023,Chennai Super Kings,2023-05-06,Strong
+2023,Chennai Super Kings,2023-05-10,Strong
+2023,Chennai Super Kings,2023-05-14,Stable
+2023,Chennai Super Kings,2023-05-20,Strong
+2023,Chennai Super Kings,2023-05-23,Strong
+2023,Chennai Super Kings,2023-05-29,Strong
+2023,Delhi Capitals,2023-04-15,Weak
+2023,Delhi Capitals,2023-04-20,Weak
+2023,Delhi Capitals,2023-04-24,Stable
+2023,Delhi Capitals,2023-04-29,Stable
+2023,Delhi Capitals,2023-05-02,Strong
+2023,Delhi Capitals,2023-05-06,Strong
+2023,Delhi Capitals,2023-05-10,Strong
+2023,Delhi Capitals,2023-05-13,Stable
+2023,Delhi Capitals,2023-05-17,Strong
+2023,Delhi Capitals,2023-05-20,Stable
+2023,Gujarat Titans,2023-04-16,Strong
+2023,Gujarat Titans,2023-04-22,Strong
+2023,Gujarat Titans,2023-04-25,Strong
+2023,Gujarat Titans,2023-04-29,Strong
+2023,Gujarat Titans,2023-05-02,Strong
+2023,Gujarat Titans,2023-05-05,Strong
+2023,Gujarat Titans,2023-05-07,Strong
+2023,Gujarat Titans,2023-05-12,Strong
+2023,Gujarat Titans,2023-05-15,Strong
+2023,Gujarat Titans,2023-05-21,Strong
+2023,Gujarat Titans,2023-05-23,Strong
+2023,Gujarat Titans,2023-05-26,Strong
+2023,Gujarat Titans,2023-05-29,Strong
+2023,Kolkata Knight Riders,2023-04-16,Stable
+2023,Kolkata Knight Riders,2023-04-20,Stable
+2023,Kolkata Knight Riders,2023-04-23,Weak
+2023,Kolkata Knight Riders,2023-04-26,Weak
+2023,Kolkata Knight Riders,2023-04-29,Weak
+2023,Kolkata Knight Riders,2023-05-04,Stable
+2023,Kolkata Knight Riders,2023-05-08,Strong
+2023,Kolkata Knight Riders,2023-05-11,Strong
+2023,Kolkata Knight Riders,2023-05-14,Strong
+2023,Kolkata Knight Riders,2023-05-20,Strong
+2023,Lucknow Super Giants,2023-04-15,Strong
+2023,Lucknow Super Giants,2023-04-19,Strong
+2023,Lucknow Super Giants,2023-04-22,Strong
+2023,Lucknow Super Giants,2023-04-28,Strong
+2023,Lucknow Super Giants,2023-05-01,Stable
+2023,Lucknow Super Giants,2023-05-07,Stable
+2023,Lucknow Super Giants,2023-05-13,Stable
+2023,Lucknow Super Giants,2023-05-16,Strong
+2023,Lucknow Super Giants,2023-05-20,Strong
+2023,Lucknow Super Giants,2023-05-24,Strong
+2023,Mumbai Indians,2023-04-18,Strong
+2023,Mumbai Indians,2023-04-22,Strong
+2023,Mumbai Indians,2023-04-25,Strong
+2023,Mumbai Indians,2023-04-30,Strong
+2023,Mumbai Indians,2023-05-03,Strong
+2023,Mumbai Indians,2023-05-06,Stable
+2023,Mumbai Indians,2023-05-09,Strong
+2023,Mumbai Indians,2023-05-12,Strong
+2023,Mumbai Indians,2023-05-16,Strong
+2023,Mumbai Indians,2023-05-21,Strong
+2023,Mumbai Indians,2023-05-24,Strong
+2023,Mumbai Indians,2023-05-26,Strong
+2023,Punjab Kings,2023-04-15,Strong
+2023,Punjab Kings,2023-04-20,Stable
+2023,Punjab Kings,2023-04-22,Stable
+2023,Punjab Kings,2023-04-28,Stable
+2023,Punjab Kings,2023-04-30,Strong
+2023,Punjab Kings,2023-05-03,Stable
+2023,Punjab Kings,2023-05-08,Stable
+2023,Punjab Kings,2023-05-13,Stable
+2023,Punjab Kings,2023-05-17,Stable
+2023,Punjab Kings,2023-05-19,Weak
+2023,Rajasthan Royals,2023-04-16,Strong
+2023,Rajasthan Royals,2023-04-19,Strong
+2023,Rajasthan Royals,2023-04-23,Strong
+2023,Rajasthan Royals,2023-04-27,Strong
+2023,Rajasthan Royals,2023-04-30,Stable
+2023,Rajasthan Royals,2023-05-05,Weak
+2023,Rajasthan Royals,2023-05-07,Weak
+2023,Rajasthan Royals,2023-05-11,Stable
+2023,Rajasthan Royals,2023-05-14,Weak
+2023,Rajasthan Royals,2023-05-19,Stable
+2023,Royal Challengers Bengaluru,2023-04-17,Stable
+2023,Royal Challengers Bengaluru,2023-04-20,Stable
+2023,Royal Challengers Bengaluru,2023-04-23,Strong
+2023,Royal Challengers Bengaluru,2023-04-26,Strong
+2023,Royal Challengers Bengaluru,2023-05-01,Strong
+2023,Royal Challengers Bengaluru,2023-05-06,Strong
+2023,Royal Challengers Bengaluru,2023-05-09,Stable
+2023,Royal Challengers Bengaluru,2023-05-14,Stable
+2023,Royal Challengers Bengaluru,2023-05-18,Strong
+2023,Royal Challengers Bengaluru,2023-05-21,Stable
+2023,Sunrisers Hyderabad,2023-04-18,Stable
+2023,Sunrisers Hyderabad,2023-04-21,Stable
+2023,Sunrisers Hyderabad,2023-04-24,Stable
+2023,Sunrisers Hyderabad,2023-04-29,Stable
+2023,Sunrisers Hyderabad,2023-05-04,Weak
+2023,Sunrisers Hyderabad,2023-05-07,Stable
+2023,Sunrisers Hyderabad,2023-05-13,Stable
+2023,Sunrisers Hyderabad,2023-05-15,Stable
+2023,Sunrisers Hyderabad,2023-05-18,Weak
+2023,Sunrisers Hyderabad,2023-05-21,Weak
+2024,Chennai Super Kings,2024-04-08,Strong
+2024,Chennai Super Kings,2024-04-14,Strong
+2024,Chennai Super Kings,2024-04-19,Stable
+2024,Chennai Super Kings,2024-04-23,Stable
+2024,Chennai Super Kings,2024-04-28,Strong
+2024,Chennai Super Kings,2024-05-01,Stable
+2024,Chennai Super Kings,2024-05-05,Stable
+2024,Chennai Super Kings,2024-05-10,Stable
+2024,Chennai Super Kings,2024-05-12,Strong
+2024,Chennai Super Kings,2024-05-18,Stable
+2024,Delhi Capitals,2024-04-07,Weak
+2024,Delhi Capitals,2024-04-12,Stable
+2024,Delhi Capitals,2024-04-17,Strong
+2024,Delhi Capitals,2024-04-20,Stable
+2024,Delhi Capitals,2024-04-24,Strong
+2024,Delhi Capitals,2024-04-27,Strong
+2024,Delhi Capitals,2024-04-29,Strong
+2024,Delhi Capitals,2024-05-07,Strong
+2024,Delhi Capitals,2024-05-12,Strong
+2024,Delhi Capitals,2024-05-14,Strong
+2024,Gujarat Titans,2024-04-07,Stable
+2024,Gujarat Titans,2024-04-10,Stable
+2024,Gujarat Titans,2024-04-17,Stable
+2024,Gujarat Titans,2024-04-21,Stable
+2024,Gujarat Titans,2024-04-24,Stable
+2024,Gujarat Titans,2024-04-28,Stable
+2024,Gujarat Titans,2024-05-04,Weak
+2024,Gujarat Titans,2024-05-10,Stable
+2024,Kolkata Knight Riders,2024-04-14,Strong
+2024,Kolkata Knight Riders,2024-04-16,Strong
+2024,Kolkata Knight Riders,2024-04-21,Strong
+2024,Kolkata Knight Riders,2024-04-26,Stable
+2024,Kolkata Knight Riders,2024-04-29,Strong
+2024,Kolkata Knight Riders,2024-05-03,Strong
+2024,Kolkata Knight Riders,2024-05-05,Strong
+2024,Kolkata Knight Riders,2024-05-11,Strong
+2024,Kolkata Knight Riders,2024-05-21,Strong
+2024,Kolkata Knight Riders,2024-05-26,Strong
+2024,Lucknow Super Giants,2024-04-12,Strong
+2024,Lucknow Super Giants,2024-04-14,Strong
+2024,Lucknow Super Giants,2024-04-19,Strong
+2024,Lucknow Super Giants,2024-04-23,Strong
+2024,Lucknow Super Giants,2024-04-27,Stable
+2024,Lucknow Super Giants,2024-04-30,Strong
+2024,Lucknow Super Giants,2024-05-05,Strong
+2024,Lucknow Super Giants,2024-05-08,Stable
+2024,Lucknow Super Giants,2024-05-14,Weak
+2024,Lucknow Super Giants,2024-05-17,Stable
+2024,Mumbai Indians,2024-04-11,Stable
+2024,Mumbai Indians,2024-04-14,Stable
+2024,Mumbai Indians,2024-04-18,Strong
+2024,Mumbai Indians,2024-04-22,Strong
+2024,Mumbai Indians,2024-04-27,Stable
+2024,Mumbai Indians,2024-04-30,Weak
+2024,Mumbai Indians,2024-05-03,Weak
+2024,Mumbai Indians,2024-05-06,Weak
+2024,Mumbai Indians,2024-05-11,Weak
+2024,Mumbai Indians,2024-05-17,Weak
+2024,Punjab Kings,2024-04-09,Stable
+2024,Punjab Kings,2024-04-13,Weak
+2024,Punjab Kings,2024-04-18,Weak
+2024,Punjab Kings,2024-04-21,Weak
+2024,Punjab Kings,2024-04-26,Weak
+2024,Punjab Kings,2024-05-01,Stable
+2024,Punjab Kings,2024-05-05,Stable
+2024,Punjab Kings,2024-05-09,Stable
+2024,Punjab Kings,2024-05-15,Strong
+2024,Punjab Kings,2024-05-19,Stable
+2024,Rajasthan Royals,2024-04-10,Strong
+2024,Rajasthan Royals,2024-04-13,Strong
+2024,Rajasthan Royals,2024-04-16,Strong
+2024,Rajasthan Royals,2024-04-22,Strong
+2024,Rajasthan Royals,2024-04-27,Strong
+2024,Rajasthan Royals,2024-05-02,Strong
+2024,Rajasthan Royals,2024-05-07,Strong
+2024,Rajasthan Royals,2024-05-12,Stable
+2024,Rajasthan Royals,2024-05-15,Weak
+2024,Rajasthan Royals,2024-05-22,Weak
+2024,Rajasthan Royals,2024-05-24,Weak
+2024,Royal Challengers Bengaluru,2024-04-06,Weak
+2024,Royal Challengers Bengaluru,2024-04-11,Weak
+2024,Royal Challengers Bengaluru,2024-04-15,Weak
+2024,Royal Challengers Bengaluru,2024-04-21,Weak
+2024,Royal Challengers Bengaluru,2024-04-25,Weak
+2024,Royal Challengers Bengaluru,2024-04-28,Stable
+2024,Royal Challengers Bengaluru,2024-05-04,Strong
+2024,Royal Challengers Bengaluru,2024-05-09,Strong
+2024,Royal Challengers Bengaluru,2024-05-12,Strong
+2024,Royal Challengers Bengaluru,2024-05-18,Strong
+2024,Royal Challengers Bengaluru,2024-05-22,Strong
+2024,Sunrisers Hyderabad,2024-04-09,Strong
+2024,Sunrisers Hyderabad,2024-04-15,Strong
+2024,Sunrisers Hyderabad,2024-04-20,Strong
+2024,Sunrisers Hyderabad,2024-04-25,Strong
+2024,Sunrisers Hyderabad,2024-04-28,Strong
+2024,Sunrisers Hyderabad,2024-05-02,Strong
+2024,Sunrisers Hyderabad,2024-05-06,Stable
+2024,Sunrisers Hyderabad,2024-05-08,Stable
+2024,Sunrisers Hyderabad,2024-05-19,Strong
+2024,Sunrisers Hyderabad,2024-05-21,Strong
+2024,Sunrisers Hyderabad,2024-05-24,Strong
+2024,Sunrisers Hyderabad,2024-05-26,Strong
+2025,Chennai Super Kings,2025-04-08,Weak
+2025,Chennai Super Kings,2025-04-11,Weak
+2025,Chennai Super Kings,2025-04-14,Weak
+2025,Chennai Super Kings,2025-04-20,Weak
+2025,Chennai Super Kings,2025-04-25,Weak
+2025,Chennai Super Kings,2025-04-30,Weak
+2025,Chennai Super Kings,2025-05-03,Weak
+2025,Chennai Super Kings,2025-05-07,Weak
+2025,Chennai Super Kings,2025-05-20,Weak
+2025,Chennai Super Kings,2025-05-25,Stable
+2025,Delhi Capitals,2025-04-13,Strong
+2025,Delhi Capitals,2025-04-19,Strong
+2025,Delhi Capitals,2025-04-22,Strong
+2025,Delhi Capitals,2025-04-27,Stable
+2025,Delhi Capitals,2025-04-29,Weak
+2025,Delhi Capitals,2025-05-18,Weak
+2025,Delhi Capitals,2025-05-21,Weak
+2025,Delhi Capitals,2025-05-24,Weak
+2025,Gujarat Titans,2025-04-09,Strong
+2025,Gujarat Titans,2025-04-12,Strong
+2025,Gujarat Titans,2025-04-19,Strong
+2025,Gujarat Titans,2025-04-21,Strong
+2025,Gujarat Titans,2025-04-28,Strong
+2025,Gujarat Titans,2025-05-02,Strong
+2025,Gujarat Titans,2025-05-06,Strong
+2025,Gujarat Titans,2025-05-18,Strong
+2025,Gujarat Titans,2025-05-22,Strong
+2025,Gujarat Titans,2025-05-25,Strong
+2025,Gujarat Titans,2025-05-30,Stable
+2025,Kolkata Knight Riders,2025-04-08,Stable
+2025,Kolkata Knight Riders,2025-04-11,Strong
+2025,Kolkata Knight Riders,2025-04-15,Stable
+2025,Kolkata Knight Riders,2025-04-21,Stable
+2025,Kolkata Knight Riders,2025-04-29,Stable
+2025,Kolkata Knight Riders,2025-05-04,Strong
+2025,Kolkata Knight Riders,2025-05-07,Stable
+2025,Kolkata Knight Riders,2025-05-25,Stable
+2025,Lucknow Super Giants,2025-04-08,Strong
+2025,Lucknow Super Giants,2025-04-12,Strong
+2025,Lucknow Super Giants,2025-04-14,Strong
+2025,Lucknow Super Giants,2025-04-19,Strong
+2025,Lucknow Super Giants,2025-04-22,Strong
+2025,Lucknow Super Giants,2025-04-27,Stable
+2025,Lucknow Super Giants,2025-05-04,Weak
+2025,Lucknow Super Giants,2025-05-19,Weak
+2025,Lucknow Super Giants,2025-05-22,Weak
+2025,Lucknow Super Giants,2025-05-27,Weak
+2025,Mumbai Indians,2025-04-07,Weak
+2025,Mumbai Indians,2025-04-13,Stable
+2025,Mumbai Indians,2025-04-17,Strong
+2025,Mumbai Indians,2025-04-20,Strong
+2025,Mumbai Indians,2025-04-23,Strong
+2025,Mumbai Indians,2025-04-27,Strong
+2025,Mumbai Indians,2025-05-01,Strong
+2025,Mumbai Indians,2025-05-06,Strong
+2025,Mumbai Indians,2025-05-21,Strong
+2025,Mumbai Indians,2025-05-26,Strong
+2025,Mumbai Indians,2025-05-30,Strong
+2025,Mumbai Indians,2025-06-01,Stable
+2025,Punjab Kings,2025-04-12,Strong
+2025,Punjab Kings,2025-04-15,Strong
+2025,Punjab Kings,2025-04-18,Strong
+2025,Punjab Kings,2025-04-20,Strong
+2025,Punjab Kings,2025-04-30,Strong
+2025,Punjab Kings,2025-05-04,Strong
+2025,Punjab Kings,2025-05-18,Strong
+2025,Punjab Kings,2025-05-24,Strong
+2025,Punjab Kings,2025-05-26,Strong
+2025,Punjab Kings,2025-05-29,Strong
+2025,Punjab Kings,2025-06-01,Strong
+2025,Punjab Kings,2025-06-03,Stable
+2025,Rajasthan Royals,2025-04-09,Stable
+2025,Rajasthan Royals,2025-04-13,Stable
+2025,Rajasthan Royals,2025-04-19,Stable
+2025,Rajasthan Royals,2025-04-24,Weak
+2025,Rajasthan Royals,2025-04-28,Weak
+2025,Rajasthan Royals,2025-05-01,Weak
+2025,Rajasthan Royals,2025-05-04,Weak
+2025,Rajasthan Royals,2025-05-18,Weak
+2025,Rajasthan Royals,2025-05-20,Stable
+2025,Royal Challengers Bengaluru,2025-04-10,Strong
+2025,Royal Challengers Bengaluru,2025-04-13,Strong
+2025,Royal Challengers Bengaluru,2025-04-18,Stable
+2025,Royal Challengers Bengaluru,2025-04-20,Strong
+2025,Royal Challengers Bengaluru,2025-04-24,Strong
+2025,Royal Challengers Bengaluru,2025-04-27,Strong
+2025,Royal Challengers Bengaluru,2025-05-03,Strong
+2025,Royal Challengers Bengaluru,2025-05-23,Strong
+2025,Royal Challengers Bengaluru,2025-05-27,Strong
+2025,Royal Challengers Bengaluru,2025-05-29,Strong
+2025,Royal Challengers Bengaluru,2025-06-03,Strong
+2025,Sunrisers Hyderabad,2025-04-06,Weak
+2025,Sunrisers Hyderabad,2025-04-12,Weak
+2025,Sunrisers Hyderabad,2025-04-17,Weak
+2025,Sunrisers Hyderabad,2025-04-23,Weak
+2025,Sunrisers Hyderabad,2025-04-25,Stable
+2025,Sunrisers Hyderabad,2025-05-02,Stable
+2025,Sunrisers Hyderabad,2025-05-19,Stable
+2025,Sunrisers Hyderabad,2025-05-23,Strong
+2025,Sunrisers Hyderabad,2025-05-25,Strong

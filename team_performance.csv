@@ -1,0 +1,11 @@
+team,matches,wins,losses,win_rate,average_runs,recent_form,recent_win_rate,current_state
+Chennai Super Kings,57,25,32,43.86,174.82,LLWLW,40.0,Stable
+Kolkata Knight Riders,54,28,26,51.85,173.11,LWWLL,40.0,Stable
+Mumbai Indians,60,26,34,43.33,177.37,LWLWL,40.0,Stable
+Delhi Capitals,54,25,29,46.3,171.52,LLLLW,20.0,Weak
+Royal Challengers Bengaluru,60,34,26,56.67,178.62,WLWWW,80.0,Strong
+Punjab Kings,58,28,30,48.28,178.02,LWLWL,40.0,Stable
+Lucknow Super Giants,57,30,27,52.63,177.49,LLLWL,20.0,Weak
+Gujarat Titans,60,37,23,61.67,177.48,WWLLL,40.0,Stable
+Sunrisers Hyderabad,57,25,32,43.86,177.96,WLWWW,80.0,Strong
+Rajasthan Royals,59,30,29,50.85,176.68,WLLLW,40.0,Stable
